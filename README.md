@@ -1,4 +1,4 @@
-# PrimeTrade Backend Developer Intern Assignment
+# PrimeTrade
 
 A robust, scalable REST API built with Node.js and MongoDB, alongside a responsive React.js dashboard. 
 
